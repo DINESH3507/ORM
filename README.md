@@ -39,8 +39,8 @@ class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid','name','salary','age','email')
 ```
 # OUTPUT
+![alt text](<Screenshot 2025-03-25 234124.png>)
 
-![alt text](<Screenshot 2025-03-25 224910.png>)
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
